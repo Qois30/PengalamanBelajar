@@ -21,3 +21,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 Sedang mencoba ehehehe
 
 mencoba 1
+mencoba 2
